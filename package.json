@@ -1,0 +1,17 @@
+{
+  "name": "spirit-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Sublime's Spirit syntax ported to Atom",
+  "keywords": [
+    "sublime",
+    "spirit",
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/mattroylloyd/spirit-syntax",
+  "license": "ISC",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
